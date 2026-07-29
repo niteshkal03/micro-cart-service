@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-redis
+redis==5.0.7
 httpx
 python-jose[cryptography]
 python-dotenv
