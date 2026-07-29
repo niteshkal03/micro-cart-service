@@ -9,5 +9,5 @@ passlib[bcrypt]
 bcrypt==4.0.1
 slowapi
 python-dotenv
-redis==5.0.8
+redis==5.0.7
 httpx==0.27.2
