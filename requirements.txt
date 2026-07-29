@@ -1,11 +1,10 @@
 fastapi
 uvicorn[standard]
-sqlalchemy[asyncio]
-asyncpg
-pydantic-settings
-pydantic[email]
+redis
+httpx
 python-jose[cryptography]
+python-dotenv
+pydantic-settings
+slowapi
 passlib[bcrypt]
 bcrypt==4.0.1
-slowapi
-python-dotenv
