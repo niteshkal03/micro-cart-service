@@ -1,5 +1,6 @@
 services:
   cart-service:
+    build: .
     image: niteshkal03/cart-service:1.0
     container_name: cart-service
     ports:
